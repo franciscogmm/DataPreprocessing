@@ -11,3 +11,4 @@ Some Data Preprocessing Exercises (cleaning, blending, manipulation)
       - iterate. when done proceed to next step.
       - convert finallist to pandas dataframe.
       - save dataframe to csv
+      - as needed: melting process to convert from wide to long using pandas.melt() **i needed this for proper tableau input format**
